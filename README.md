@@ -99,8 +99,8 @@ solar-tracker/
 ├── docs/
 │   └── calibration.md      # Guia de calibração
 ├── src/
-│   ├── solar_tracker.ino   # Sketch principal
-│   └── config.h            # Parâmetros configuráveis
+│   ├── config.h            # Parâmetros configuráveis
+|   └── solar_tracker.ino   # Sketch principal
 ├── LICENSE
 └── README.md
 ```
