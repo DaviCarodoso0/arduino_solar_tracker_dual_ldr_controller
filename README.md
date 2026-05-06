@@ -96,13 +96,11 @@ GND      ──────  Servo (GND)
 
 ```
 solar-tracker/
+├── docs/
+│   └── calibration.md      # Guia de calibração
 ├── src/
 │   ├── solar_tracker.ino   # Sketch principal
 │   └── config.h            # Parâmetros configuráveis
-├── docs/
-│   └── calibration.md      # Guia de calibração
-├── schematics/
-│   └── wiring_diagram.png  # Diagrama de ligação (em breve)
 ├── LICENSE
 └── README.md
 ```
